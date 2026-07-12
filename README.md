@@ -25,7 +25,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+#### 🔧 Programming Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -49,6 +49,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 👅 Languages
+
+![Spanish](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![English](https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8)
+![French](https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v8)
 
 ## 📊 Profile Statistics
 
