@@ -52,9 +52,9 @@
 
 #### 👅 Languages
 
-<h1>Spanish</h1><img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48" /><!--(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
-![English](https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8)
-![French](https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1eb.png?v8)
+<h3>Spanish</h3><img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48" /><!--(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
+<h3>English</h3><img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48" />
+<h3>French</h3><img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48" />
 
 ## 📊 Profile Statistics
 
