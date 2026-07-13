@@ -52,7 +52,7 @@
 
 #### 👅 Languages
 
-<p align = "">
+<p align = "center">
 
    <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48"/>
   &nbsp;&nbsp;&nbsp;
