@@ -52,24 +52,21 @@
 
 #### 👅 Languages
 
-<div align = "center">
+<p align = "center">
 
-   <div style="display:inline-block; margin:20px;">
-      <h3>Spanish</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48"/>
-   </div>
-
-   <div style="display:inline-block; margin:20px;">
-      <h3>English</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48"/>
-   </div>
-
-   <div style="display:inline-block; margin:20px;">
-      <h3>French</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48"/>
-   </div>
+   <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48"/>
    
-</div>
+</p>
+
+<p align = "center">
+
+   Spanish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; French
+   
+</p>
 
 ## 📊 Profile Statistics
 
