@@ -64,7 +64,7 @@
 
 <p align = "center">
 
-   Spanish &nbsp; English &nbsp;&nbsp;&nbsp; French
+   Spanish &nbsp; English &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; French
    
 </p>
 
