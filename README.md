@@ -54,11 +54,11 @@
 
 <p align = "">
 
-   <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="60"/>
+   <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="60"/>
+  <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="60"/>
+  <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48"/>
    
 </p>
 
