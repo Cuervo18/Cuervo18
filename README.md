@@ -54,19 +54,19 @@
 
 <div class = languages>
 
-   <div class = languages>
+   <div style="display:inline-block; margin:20px;">
       <h3>Spanish</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48">
+      <img src="https://kapowaz.github.io/square-flags/flags/es.svg" width="48"/>
    </div>
 
-   <div class = languages>
+   <div style="display:inline-block; margin:20px;">
       <h3>English</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48">
+      <img src="https://kapowaz.github.io/square-flags/flags/uk.svg" width="48"/>
    </div>
 
-   <div class = languages>
+   <div style="display:inline-block; margin:20px;">
       <h3>French</h3>
-      <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48">
+      <img src="https://kapowaz.github.io/square-flags/flags/fr.svg" width="48"/>
    </div>
    
 </div>
