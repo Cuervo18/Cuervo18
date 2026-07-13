@@ -52,7 +52,7 @@
 
 #### 👅 Languages
 
-<div class = languages>
+<div align = "center">
 
    <div style="display:inline-block; margin:20px;">
       <h3>Spanish</h3>
